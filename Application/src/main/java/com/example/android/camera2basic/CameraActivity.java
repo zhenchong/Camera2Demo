@@ -41,10 +41,6 @@ public class CameraActivity extends AppCompatActivity {
                     .replace(R.id.container, Camera2BasicFragment.newInstance())
                     .commit();
         }
-
-        String s="good";
-        String s1="add temp";
-        String s2="add temp2";
     }
 
 }
